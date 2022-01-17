@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Exam-000\Exam\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\TopDesign</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Pins</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Analog</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\DMA</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Clocks</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Interrupts</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\System</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Directives</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Flash Security</v>
+<v>Exam-000\Exam\Header Files</v>
+<v>Exam-000\Exam\Header Files\cyapicallbacks.h</v>
+<v>Exam-000\Exam\Source Files</v>
+<v>Exam-000\Exam\Source Files\main.c</v>
+<v>Exam-000\Exam\Generated_Source</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\TopDesign</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Pins</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Analog</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\DMA</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Clocks</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Interrupts</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\System</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Directives</v>
+<v>Exam-000\Exam\Lab_3_2_UART_Led.cydwr\Flash Security</v>
+<v>Exam-000\Exam\Header Files</v>
+<v>Exam-000\Exam\Header Files\cyapicallbacks.h</v>
+<v>Exam-000\Exam\Source Files</v>
+<v>Exam-000\Exam\Source Files\main.c</v>
+<v>Exam-000\Exam\Generated_Source</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cy_boot</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cy_dmac</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pin_Led_Blue</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pin_Led_Green</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pin_Led_Red</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pin_Select</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pins_In_1_2</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pins_In_3_4</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\Pins_Out</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\UART</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\UART_rx</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\UART_SCBCLK</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\UART_tx</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>Exam-000\Exam\Generated_Source\PSoC4\cydevice_trm.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\TopDesign</v>
+<v>Exam-000\Exam\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\TopDesign</v>
+<v>Exam-000\Exam\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\Exam.gpdsc</v>
+<v>Exam-000\Exam\Exam.rpt</v>
+<v>Exam-000\Exam\Exam_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\Exam.gpdsc</v>
+<v>Exam-000\Exam\Exam.rpt</v>
+<v>Exam-000\Exam\Exam_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\PSoC 4 Architecture TRM</v>
+<v>Exam-000\Exam\PSoC 4200 BLE Family Datasheet</v>
+<v>Exam-000\Exam\System Reference Guides</v>
+<v>Exam-000\Exam\System Reference Guides\cy_boot_v6_0</v>
+<v>Exam-000\Exam\System Reference Guides\cy_dmac_v1_10</v>
+<v>Exam-000\Exam\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Exam-000\Exam\cy_pins_v2_20</v>
+<v>Exam-000\Exam\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Exam-000\Exam\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Exam-000</v>
+<v>Exam-000\Exam</v>
+<v>Exam-000\Exam\PSoC 4 Architecture TRM</v>
+<v>Exam-000\Exam\PSoC 4200 BLE Family Datasheet</v>
+<v>Exam-000\Exam\System Reference Guides</v>
+<v>Exam-000\Exam\System Reference Guides\cy_boot_v6_0</v>
+<v>Exam-000\Exam\System Reference Guides\cy_dmac_v1_10</v>
+<v>Exam-000\Exam\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Exam-000\Exam\cy_pins_v2_20</v>
+<v>Exam-000\Exam\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Exam-000\Exam\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="776, 532" SelectedTabbedMdiWindow="7f0b31d1-2615-4374-ad4b-79b539d8c93c"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="93fd675a-c45e-43c7-8388-b0191f865bc1" /><DocumentWindow Key="F:\pok\exam\Exam.cydsn\TopDesign\TopDesign.cysch" Guid="16e4a8a9-a6d7-41d3-830f-307b04fe182b" /><DocumentWindow Key="F:\pok\exam\Exam.cydsn\main.c" Guid="7f0b31d1-2615-4374-ad4b-79b539d8c93c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
